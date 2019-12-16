@@ -1,3 +1,4 @@
 User-agent: *
 
 sitemap: https://minimal-blog.lekoarts.de/sitemap.xml
+sitemap: https://admiring-kare-15d484.netlify.com/sitemap.xml
